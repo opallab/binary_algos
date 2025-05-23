@@ -1,4 +1,4 @@
-# Supplementary Code for the Paper “Learning to Add, Multiply, and Execute Algorithmic Instructions Exactly with Neural Networks”
+# Learning to Add, Multiply, and Execute Algorithmic Instructions Exactly with Neural Networks
 
 This repository provides empirical validations for the theoretical results presented in the paper “Learning to Add, Multiply, and Execute Algorithmic Instructions Exactly with Neural Networks.”
 
